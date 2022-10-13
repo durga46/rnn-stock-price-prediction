@@ -32,6 +32,9 @@ Follow the same steps to create the Test data. But make sure you combine the tra
 Make Predictions and plot the graph with the Actual and Predicted values.
 ## PROGRAM
 ```py
+Developed by: DurgaDeviP
+Register Number: 212220230015
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
