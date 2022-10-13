@@ -9,7 +9,7 @@ We aim to build a RNN model to predict the stock prices of Google using the data
 Note: These parameters can be changed as per requirements.
 
 ## Neural Network Model
-![rnn](https://user-images.githubusercontent.com/75235704/195600731-c32fe185-2534-44d9-817b-b9e7d098f3b4.png)
+![i3](https://user-images.githubusercontent.com/75235704/195607383-7d9a1c6a-f3cf-4be0-aba5-1d81b48b3729.jpg)
 
 ## DESIGN STEPS
 
@@ -135,3 +135,4 @@ mse(y_test,predicted_stock_price)
 
 
 ## RESULT
+Thus, we have successfully created a Simple RNN model for Stock Price Prediction.
